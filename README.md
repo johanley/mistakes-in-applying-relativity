@@ -1,4 +1,4 @@
-# In Praise of Northern Jargon
+# Mistakes In Applying Relativity
 
 Common errors in applying special relativity are often caused by bad jargon.
 
